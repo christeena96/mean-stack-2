@@ -1,0 +1,24 @@
+#top{
+    border-style: solid;
+    border-color: cyan;
+    border-width: 6px;
+    width: 50%;
+    margin-left: 350;
+    background-color: darkred;
+    font-family: 'Pacifico', cursive;
+
+}
+#Bottom{
+    border-style: solid;
+    border-color: cyan;
+    border-width: 6px;
+    width: 50%;
+    margin-left: 300;
+    margin-top: 400px;
+    padding-left: 300;
+    background-color: darkgreen;
+
+}
+h1{
+    font-family: 'Pacifico', cursive;
+}

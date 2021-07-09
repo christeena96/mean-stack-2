@@ -1,0 +1,29 @@
+h1{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+table{
+    margin: auto;
+
+}
+td{
+    height: 500px;
+    padding: 100;
+    border: darksalmon;
+
+}
+#one{
+    background-color: darkseagreen;
+}
+#two{
+    background-color: deeppink;
+}
+#three{
+    background-color: fuchsia;
+}
+#fur{
+    background-color: lawngreen;
+}
+#five{
+    background-color: indianred;
+}
